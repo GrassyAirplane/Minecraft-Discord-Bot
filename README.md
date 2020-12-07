@@ -1,0 +1,1 @@
+Discord Bot checks Status of minecraft server; displaying online/offline, and player count. 
